@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The beginning of tythes in the law and ending of tythes in the Gospel / by G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 39KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40124</idno><idno type="EEBO-CITATION">17060921</idno>
+  <idno type="VID">105850</idno>
+  <idno type="EEBO-PROQUEST">2240878244</idno>
+  
+            <idno type="STC">Wing F1752</idno>
+            <idno type="STC">ESTC R37828</idno>
+            <idno type="OCLC">17060921</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105850)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1616:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The beginning of tythes in the law and ending of tythes in the Gospel / by G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 20, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] printed :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tithes.</term>
+               <term type="topical_term">Church finance --  England.</term>
+               <term type="topical_term">Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105850:1"/>
+            <pb facs="tcp:105850:1"/>
+            <p>THE Beginning of Tythes IN THE LAW, AND Ending of Tythes IN THE GOSPEL. By <hi>G. Fox.</hi>
+            </p>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:105850:2"/>
+            <pb n="1" facs="tcp:105850:2"/>
+            <head>The Law and the Commandment of the Lord concerning payment of Tythes, to whom; and how they were to be disposed, <hi>viz.</hi> to the Levitical Priesthood in the old Testament, and how Christ is come to end that Priesthood, Law, and Com<g ref="char:EOLhyphen"/>mandment by which he took the Tythes and Offerings.</head>
+            <p>ALL the Tythes of the Land, whe<g ref="char:EOLhyphen"/>ther of the seed of the Land, or of the fruits of the Trees, is the Lords, it is holy unto the Lord.</p>
+            <p>And concerning the Tenths of the Herds, or of the Flock, even of whatsoever passeth under the Rod, the Tenth shall be holy unto the Lord, <hi>Levit.</hi> 27.40. <hi>to the end.</hi>
+            </p>
+            <p>Behold, I have taken your Brethren the <hi>Le<g ref="char:EOLhyphen"/>vites,</hi> from among the Children of <hi>Israel,</hi> to you they are given as a gift for the Lord, to do the service of the Tabernacle of the Congregation: Therefore thou and thy Sons with thee shall keep your Priests office, for every thing of the Altar; and within the Vail ye shall serve: I have given you your Priests Office unto you, as a service of gift: and I have given to thee the charge of the Heave-offerings, and thou
+<pb n="2" facs="tcp:105850:3"/>shalt keep the charge of the Altar and the San<g ref="char:EOLhyphen"/>ctuary, and thou shalt keep the charge of the Tabernacle for the Congregation, and for all the services of the Tabernacle, <hi>Numb.</hi> 18.6, 7.</p>
+            <p>And the <hi>Levites</hi> shall be mine, I am the Lord, <hi>Numb.</hi> 3.45.</p>
+            <p>And behold I have given the Children of <hi>Levi</hi> all the Tenths in <hi>Israel</hi> for an Inheritance,
+<note place="margin">Christ has dis<g ref="char:EOLhyphen"/>charged them of this Charge.</note> for their services which they serve, even the ser<g ref="char:EOLhyphen"/>vice of the Tabernacle.</p>
+            <p>Neither must the Children of <hi>Israel</hi> come nigh the Tabernacle of the Congregation, least they bear the sin and die.</p>
+            <p>But the <hi>Levites</hi> shall do the service of the Tabernacle of the Congregation, and they shall bear their Iniquity, this shall be a Statute for ever among your generations, that among the Children of <hi>Israel</hi> they have no Inheritance, (to wit, the <hi>Levites.</hi>)</p>
+            <p>But the Tythes of the Children of <hi>Israel,</hi> which they offer'd an Heave-offering unto the Lord, I have given to the <hi>Levites</hi> to Inherit, for they have no other Inheritance among the Children of <hi>Israel.</hi>
+            </p>
+            <p>And the Lord said unto <hi>Moses,</hi> thus speak unto the <hi>Levites,</hi> when ye take of the Children of <hi>Israels</hi> Tythes, which I have given you from them for your Inheritance, when ye shall offer an Heave-offering of it for the Lord, even a tenth part of the Tythe.</p>
+            <pb n="3" facs="tcp:105850:3"/>
+            <p>And this your Heave-offering shall be rec<g ref="char:EOLhyphen"/>koned to you, as the Corn of the Threshing-floor, <hi>&amp;c.</hi>
+            </p>
+            <p>And thus you also shall offer an Heave-offering unto the Lord,
+<note place="margin">Numbers 18.</note> of all your Tythes which ye receive of the Children of <hi>Israel,</hi> and ye shall give thereof the Lords Heave-offering to <hi>Aaron</hi> the Priest.</p>
+            <p>The place which the Lord your God shall chuse out of all your Tribes to put his name there, even unto his habitation shall he seek, and thither shalt thou come, and thither shall you bring your Offerings and Sacrifices, and your Tythes and Heave-offerings of your hands, <hi>&amp;c.</hi>
+            </p>
+            <p>And there you shall eat before the Lord your God, and ye shall rejoyce in all that you put your hands unto, ye and your Housholds, wherein the Lord thy God hath blessed thee. For ye are not as yet come to the rest, <hi>&amp;c.</hi>— But when ye go over <hi>Jordan,</hi> and dwell in the Land which the Lord your God giveth you to Inherit, and he giveth you rest from all your enemies round about you, so that ye dwell in safety.— Then there shall be a place which the Lord your God shall chuse to cause his name to dwell there, thither shall ye bring your Offerings, Sacrifices, Tythes, and your Heave-offerings of your hands, <hi>&amp;c.</hi> unto the Lord. — And ye shall rejoyce before the Lord,
+<pb n="4" facs="tcp:105850:4"/>ye and your Sons, and your Daughters, and your Men-servants and Maid-servants, and <hi>Levi</hi> that is within your Gates; Forasmuch as he hath no part nor Inheritance with you his Brethren: The Lord is his Inheritance according as the Lord promised him; For the Lord separated the Tribe of <hi>Levi,</hi> to bear the Ark of the Co<g ref="char:EOLhyphen"/>venant of the Lord, and to stand before the Lord, to minister unto him, and to bless in his name, <hi>Deut.</hi> 12. <hi>Deut.</hi> 10.8, 9.</p>
+            <p>And thou mayst not eat within thy Gates the Tythes of thy Corn, or of the Wine, or of the Oyl, or of the firstling of thy Herd, or of thy flock. — But thou shalt eat them before the Lord thy God, in the place which the Lord thy God shall chuse, thou and thy Son, and thy Daughter, and thy Man-servant, and thy Maid-servant, and the <hi>Levite</hi> that is within thy Gates, and thou shalt rejoyce be<g ref="char:EOLhyphen"/>fore the Lord thy God, in all thou puttest thy hands unto.
+<note place="margin">Deut. 12.17.26.</note> — And take heed to thy self that thou forsake not the <hi>Levite,</hi> &amp;c. And thou must eat flesh within thy Gates, or what thou desirest: Only the holy things which thou hast and thy vows, thou shalt take, and go into the place which the Lord thy God shall chuse, ob<g ref="char:EOLhyphen"/>serve and hear all these words which I command thee.</p>
+            <p>And in <hi>Deut.</hi> 14. Thou shalt truly Tythe of all the encrease of thy seed year by year, And
+<pb n="5" facs="tcp:105850:4"/>thou shalt eat it before the Lord thy God, in the place which he shall chuse to place his name there, the Tythe of thy Corn, of thy Wine, of thy Oyl, and the firstling of thy Herds, and of thy Flocks, that thou mayst learn to fear the Lord thy God always. — And if the way be too long for thee, so that thou art not able to carry it;
+<note place="margin">Here was their own choice, in laying out their Tyth-money.</note> or if the place be too far from thee, which the Lord thy God shall chuse, and set his name there: when the Lord thy God hath blessed thee. Then thou shalt turn it into money, and bind up the money in thy hand, and shalt go unto the place which the Lord thy God shall chuse. — And thou shalt bestow that money for what<g ref="char:EOLhyphen"/>soever thy Soul desireth after, for Oxen, or for Sheep, or for Wine, or for strong Drink, or for whatsoever thy Soul desires: and thou shalt eat it before the Lord thy God, and thou shalt rejoyce, thou and thy houshold. And the <hi>Le<g ref="char:EOLhyphen"/>vite</hi> that is within thy Gates thou shalt not forsake him, for he hath no part nor Inheri<g ref="char:EOLhyphen"/>tance with thee. — At the end of three years thou shalt bring forth all the Tythe of thine encrease, the same year thou shalt lay it up within thy Gates. — And the <hi>Levite,</hi> and the Stranger, and the Fatherless, and the Widow, which are within thy Gates, shall come and shall eat and be satisfi'd, that the Lord thy God may bless thee, in all the works of thy
+<pb n="6" facs="tcp:105850:5"/>hands which thou dost, <hi>Deut.</hi> 14. from the 22d. to the end.</p>
+            <p>And also in <hi>Deut.</hi> 26. when thou hast made an end of Tything, all the Tythes of the en<g ref="char:EOLhyphen"/>crease, the third year, which is the year of Ty<g ref="char:EOLhyphen"/>thing, and hast given it unto the <hi>Levite,</hi> the Stranger, the Fatherless, and the Widow, that they may eat within thy Gates and be filled. — Then thou shalt say before the Lord thy God, I have wrought away the hallowed things out of my House, and also given them unto the <hi>Levite,</hi> and unto the Stranger, to the Father<g ref="char:EOLhyphen"/>less, and to the Widow, according to thy Com<g ref="char:EOLhyphen"/>mandments which thou hast commanded me, <hi>&amp;c.</hi> Here you may see the Laws and the Com<g ref="char:EOLhyphen"/>mandements of God concerning Tythees, and who they were too, <hi>Deut.</hi> 26.12, 13.</p>
+            <p>And you may see how that the Tythes was to be brought to the Chambers of the House of God at <hi>Jerusalem,</hi> Nehemiah 10.37, 38.</p>
+            <p>And in 2 <hi>Chron.</hi> 31.11. How the Chambers for the Tythes, was in the House of the Lord, which was the place which the Lord had chosen according to <hi>Moses.</hi>
+            </p>
+            <p>And in <hi>Mal.</hi> 3. It was called a robbing of God and the whole Nation, when they did not bring in their Tythes into the Store-house, that there might be meat in his House, so it was a wronging of <hi>Levi,</hi> the Stranger, the Wi<g ref="char:EOLhyphen"/>dow, the Fatherless, from their right, for the Tythes of the Land were the Lords, and for <hi>Levi,</hi>
+               <pb n="7" facs="tcp:105850:5"/>the Widow, Stranger, and Fatherless, and so if they did not bring them in, they robbed God in his Tythes and Offerings, and walkt con<g ref="char:EOLhyphen"/>trary to the Law and the Command of God, therefore says he, ye are cursed with a curse, for ye have robbed me, even this whole Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And the Apostle saith, cursed is every one that continueth not in all things which is written in the Book of the Law to do them, in <hi>Gal.</hi> 3.10. and <hi>Deut.</hi> 27.26. — But no man is justified by the works of the Law in the sight of God, for the Just shall live by Faith; for as many as are under the works of the Law, are under the curse, <hi>Gal.</hi> 3.11.</p>
+            <p>And Christ has redeemed us from under the curse of the Law, so they are not under the curse that do not pay Tythes: — And the Apostle and we saith, that no man is justified by the works of the Law, but by the faith of Christ Jesus even as we have believed in Christ Jesus, that we might be Justified by the Faith of Christ, and not by the works of the Law: And the Apostle saith, by the works of the Law no flesh shall be justified in the sight of God: — Therefore you are not justified by the Law of Tythes and Offerings, nor outward circumcision in the fight of God, <hi>Gal.</hi> 2.3.</p>
+            <p>And Christ cryed wo unto you Scribes and Pharisees, Hypocrites, ye pay Tythe-Mint, Annis, and Cummin, and have omitted the weighty
+<pb n="8" facs="tcp:105850:6"/>matters of the Law, Judgement, Mercy, and Faith, these things ye ought to have done, and not to have left the other undone, <hi>Luke</hi> 11.42.</p>
+            <p>And in <hi>Gen.</hi> 14.20. When <hi>Melchisedec</hi> King of <hi>Salem,</hi> brought forth Bread and Wine, he was the Priest of the most high God, and he blessed <hi>Abraham,</hi> and <hi>Abraham</hi> gave him the Tenths of all that he had taken in the spoil,—as also ye may see in <hi>Heb.</hi> 7.4.</p>
+            <p>Now did ever <hi>Abraham</hi> pay Tythes to <hi>Mel<g ref="char:EOLhyphen"/>chisedec</hi> after this time? or did ever he pay <hi>Mel<g ref="char:EOLhyphen"/>chisedec</hi> Tythes before of his own yearly en<g ref="char:EOLhyphen"/>crease? but now at the war of the spoil.</p>
+            <p>And did ever any of the Kings or Judges pay the Tenths of their spoil of the Wars after<g ref="char:EOLhyphen"/>wards?</p>
+            <p>And <hi>Jacob</hi> vowed a vow saying, If God will be with me, and keep me in this way that I go, and will give me bread to eat, and Raiment to put on; so I come again to my Fathers House in peace, then shall the Lord be my God:—And this Stone which I have set up for a Pillar, shall be Gods House, and of all that thou shalt give me, I will surely give the Tenth unto thee. Now where did ever <hi>Jacob</hi> pay Tythes? or the Children of <hi>Israel</hi> in <hi>Egypt?</hi> until they came out of <hi>Egypt</hi> and received his Law, for this was onely <hi>Jacobs</hi> condition and free vow, not a command from God, as you may see in <hi>Gen.</hi> 28.20, 21, 22.</p>
+            <p>And in <hi>Heb.</hi> 7. When <hi>Abraham</hi> returned
+<pb n="9" facs="tcp:105850:6"/>from the slaughter of the Kings, <hi>Melchisedec</hi> King of <hi>Salem,</hi> Priest of the most high God, met him and blessed him, to whom also <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> gave the Tenths of all the spoils, so this was not of the encrease of his personal estate, neither did other Kings or Judges (as I said before) follow this example, to give the Tenth of their spoils that they had gotten in War.—Neither did <hi>Abraham</hi> lay this as a Command of God, upon his own Family to pay Tythes, either of their personal Estates, or of the Wars to <hi>Melchisedec</hi> afterwards, — Neither do we read, that <hi>Jacob,</hi> or his Children, did pay Tythes, till after they came out of <hi>Egypt,</hi> as before is said, by the Law of God: — But the Apostle saith, as I may so say, <hi>Levi</hi> also who received Tythes, payed Tythes in <hi>Abraham,</hi> for he was yet in the Loins of his Father, when <hi>Melchisedec</hi> met him who received the Tythes: And as for <hi>Molchisedec,</hi> his descent is not coun<g ref="char:EOLhyphen"/>ted from them, so here the Apostle goes to cut off <hi>Levi</hi> and his Priesthood, and place it upon <hi>Levi,</hi> as paying Tythes in <hi>Abraham</hi> who re<g ref="char:EOLhyphen"/>ceived them, — For the Apostle saith, verily they that were of the Sons of <hi>Levi,</hi> who re<g ref="char:EOLhyphen"/>ceive the office of the Priesthood, have a Com<g ref="char:EOLhyphen"/>mandment to take Tythes of the people accor<g ref="char:EOLhyphen"/>ding to the Law, that is of their Brethren, though they came out of the Loins of <hi>Abraham,</hi> so here's the Law and Commandment to take Tythes of their Brethren, and not of them that was not their Brethren.</p>
+            <pb n="10" facs="tcp:105850:7"/>
+            <p>And the Apostle saith, if perfection were by the Levitical Priesthood, for under it the people received the Law, what further need was there another Priest should arise (to wit Christ) after the order of <hi>Melchisedec,</hi> and not after the order of <hi>Aaron,</hi> who had a Law and a Command<g ref="char:EOLhyphen"/>ment to take Tythes. — For the Apostle saith, the Levitical Priesthood being changed, there is made of necessity a change also of the Law, for there is a disannulling of the Commandment going before, and so the Priesthood being changed, and the Law being changed by which he was made, and the Commandment disan<g ref="char:EOLhyphen"/>nulled that gave him his Tythes; for it is evi<g ref="char:EOLhyphen"/>dent, that our Lord Jesus Christ sprang out of the Tribe of <hi>Judah,</hi> of which Tribe, <hi>Moses</hi> speaks nothing concerning the Priesthood, and Christ who is made a Priest, not after the order of <hi>Aaron:</hi> — And it is yet far more evident, for that after the similitude of <hi>Melchisedec,</hi> there arises another Priest (to wit Christ) who is made not after the Law of a carnal command<g ref="char:EOLhyphen"/>ment (as the other Priests were that took Tythes) but after the power of an endless life, for this Law of the carnal Commandment, commanded all these carnal things, Tythes, Offerings, to be given to <hi>Levies</hi> Priesthood: And therefore the Apostle saith, the Law is changed by which the Priesthood was made, and the Priesthood is changed: — And the Apostle saith, there is a disannulling the Com<g ref="char:EOLhyphen"/>mandment
+<pb n="11" facs="tcp:105850:7"/>going before, for the weakness and unprofitableness thereof; so here the Apostle saith, it is both weakness and unprofitableness, Moreover, he saith, the Law made nothing perfect, but the bringing in of a better hope, (to wit Christ) by the which we draw nigh unto God, now Christ our High-Priest was made with an Oath, but the Priesthood under the Law was made without an Oath, and so Christ performs Gods Oath and fulfills it, and so ends Oaths and Swearing, and forbids them.</p>
+            <p>For the Lord sware, and will not repent, thou art a Priest for ever after the order of <hi>Mel<g ref="char:EOLhyphen"/>chisedec,</hi> to wit Christ, by so much was Jesus made a surety of a better Testament then the Old Testament, because Christ continueth ever, he hath an unchangeable Priesthood, and the <hi>Levites</hi> is changed, and their Law and Com<g ref="char:EOLhyphen"/>mand: — So the Apostle did not intend here that people should hold up <hi>Aarons</hi> Priesthood and Tythes, but he shews a change of the Law by which the Priesthood was made, and a change of the Priesthood, and a disannulling the com<g ref="char:EOLhyphen"/>mand, and setting up Christ and his Priesthood that is unchangeable; and shewing how the un<g ref="char:EOLhyphen"/>profitableness, and the weakness of the Law, and the Commandment, and the first Priest<g ref="char:EOLhyphen"/>hood, and how it made nothing perfect; and brought people to Christ the better hope, which purified them as he is pure, through which they drew nigh to God.</p>
+            <pb n="12" facs="tcp:105850:8"/>
+            <p>Now all the Tythes which by the Law of God and his Commandment, the Children of <hi>Israel</hi> was to pay to the <hi>Levites,</hi> and the <hi>Levites</hi> was to offer up the Tenths of the Heave-Offe<g ref="char:EOLhyphen"/>ring to the Lord. Christ Jesus it's said of him, Lo I come to do thy will O God, to take away the first marke that I may establish the second, by the which will we are sanctified through the Offering of the Body of Jesus once for all, once for all their Offerings. — So he has ended all the Offerings, by Offering up his own Body, to wit, the Offerings of Tythes, and all other Offerings, and the Offerer. And so he ha's ta<g ref="char:EOLhyphen"/>ken away the first Priesthood, his Law, and Command, and his Tythes, he has taken away his Altar and Temple, his Tabernacle, his San<g ref="char:EOLhyphen"/>ctuary, and all his Offices and Services; and all the Levitical Priests, Offices and Services for the first Priesthood had his Tythes for his service at the Tabernacle, Altar, Sanctuary, and keep<g ref="char:EOLhyphen"/>ing the charge of all holy things; which all these things Christ has taken away, and has ta<g ref="char:EOLhyphen"/>ken away his Priesthood, and so has taken away his Tythes, his Maintenance, and taken away his Offices and Offerings, and his Charge, and he hath discharged him; and so has changed his Law, and disannulled his Commandment, and so all is fallen to the ground, for God will have no pleasure in these Offerings which was offe<g ref="char:EOLhyphen"/>red by the Law; but Christ is come in the Volume of the Book to do the Will of God, he
+<pb n="13" facs="tcp:105850:8"/>taketh away the first, that he may establish the second; first Priesthood, first Covenant, with all his Tythes and Offerings.</p>
+            <p>For Christ, after he had offered one sacrifice for sins for ever, sat down at the right hand of God, so this one sacrifice has ended both sacri<g ref="char:EOLhyphen"/>fices and sacrificers.</p>
+            <p>And also the Tythes, their Sacrifices, Offe<g ref="char:EOLhyphen"/>rings, and maintenance in the time of the Law, which made none perfect, for by one Offering of Christ he hath perfected for ever them that are sanctified, (marke, for ever) <hi>Heb.</hi> 10.</p>
+            <p>And <hi>Levite</hi> the Priest that took the Tythes for the Services, these Priests stood daily Offe<g ref="char:EOLhyphen"/>ring often times the same Sacrifices, which can never take away sins, but Christ after he had offered up one Sacrifice for sins for ever, sat down at the right hand of God, who by this Offering ended the first Priest and his daily sa<g ref="char:EOLhyphen"/>crifices. And <hi>Moses</hi> sprinkled the Book and the People with the Blood: But how much more shall the Blood of Christ, through the Eternal Spirit, offer up himself without spot to God, purge your Consciences from dead works to serve the Living God. — So Christ is the Mediator of the New Testament, and redeems from under the transgression of the first, and ends it, and sprinkles the Consciences and the Hearts of his People with his blood, and ends the blood of the Sacrifices which was offered and shed, by which the People was sprinkled
+<pb n="14" facs="tcp:105850:9"/>withall. And the <hi>Levites</hi> had the Tenths for their service; but Christs blood which was shed, is the blood of the New Testament, which ends the blood of Bulls and Goats, and the Old Te<g ref="char:EOLhyphen"/>stament, which was sprinkled with their blood, and with which blood of Jesus the Hearts and Consciences of People are sprinkled from their dead works, to serve the living God. And the Apostle saith, The first Covenant had Ordinan<g ref="char:EOLhyphen"/>ces of divine Services, and a worldly sanctuary made with hands; and he saith, while the first Tabernacle was standing, the holyest of all was not yet made manifest; But Christ being come, is an High-Priest of good things to come, by a greater and more perfect Tabernacle, not made with hands, that is to say, not of this building of <hi>Aarons</hi> and <hi>Levi's</hi> Law, first Cove<g ref="char:EOLhyphen"/>nant, first Testament, with their carnal Ordi<g ref="char:EOLhyphen"/>nances, worldly Sanctuary, Tythes, Heave-offerings, <hi>&amp;c.</hi> nor outward Temple at <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> where they brought their Tythes unto, so this worldly Sanctuary, worldly Temple, carnal Ordinances, and the outward City <hi>Je<g ref="char:EOLhyphen"/>rusalem,</hi> where they brought their Tythes unto, and the Priest that had the Tythes for their ser<g ref="char:EOLhyphen"/>vice, and had no other Inheritance in the Land. But all this Christ came to end, who is not of this building that was made with hands, nor after this order of <hi>Aaron;</hi> but of a more per<g ref="char:EOLhyphen"/>fect Tabernacle; and so the first Covenant waxeth old and decays, and is ready to van<g ref="char:EOLhyphen"/>quish
+<pb n="15" facs="tcp:105850:9"/>away: And so he is the Mediator of the New Testament, and so he ends the Old with the Covenant, and their Carnal Ordinances and Sanctuary, their Altar, and the Priests of <hi>Levi</hi> and <hi>Aaron,</hi> and their Order, and all their Tythes which was their maintenance. So Tythes is not their maintenance now from God; for the Law by which they were made, is taken away; so their office and service is taken away, for which Tythes was given them; So the Tribe of <hi>Levi,</hi> which had no Portion in the Land by the Law and Command of God, but the Tythes for his Service. Now the Law, and Service, and Priesthood, and Tythes, and Offerings, and Covenant, and Order, and Sanctuary, and Tabernacle, and Testa<g ref="char:EOLhyphen"/>ment being taken away, and command that gave them the Tythes and Offerings, they may labour and buy a portion of Land, for there's no Tythes for them; and the Apostle saith, he that wont work must nor eat.</p>
+            <p>Now in the time of the Law, and command of God that did command Tythes, <hi>Levi</hi> the Priest was not to eat it all, nor to put it in his own particular Barn, but the people was to carry it up to <hi>Jerusalem,</hi> which was the place which the Lord did chuse, and there the High-Priest was to offer up his Heave-offerings of it, his Tenth, and the <hi>Levite</hi> must not eat all the Tythes him<g ref="char:EOLhyphen"/>self, but the Widows, Fatherless, Strangers, and the persons that gave it him, as you may see in <hi>Deut.</hi> 12.18.</p>
+            <p>For they were not to eat it within their Gates, but they were to eat at the place where the Lord did chuse, and rejoyce before the Lord, their Sons and Daughters, and Maid servants, and Men-servants, and the Strangers, and the Fatherless, and Widow, that is within thy gates shall come, and shall eat and be satisfied, that the Lord thy God may bless thee, so all these must eat of the Tythes with <hi>Levi,</hi> which had no part nor Inheritance with the Children of <hi>Israel,</hi> but as I said before, Christ has ended and changed the Levitical Priesthood and his Law that commanded Tythes, and the High, Priests Heave-offering of them, by the Offering up of himself once for all, he has ended both the Offerings and Priests
+<pb n="16" facs="tcp:105850:10"/>Services, so he has no Law to take Tythes and Wages seeing he has no service for them; blessed be the Lord who has sent his Son, which is over the Houshold of God, the Houshold of Faith, and of the <hi>Jews</hi> in Spirit, as <hi>Moses</hi> was over the Houshold of the outward <hi>Jews,</hi> with their Tythes, and Offerings, and carnal Ordinances, and outward Temples, which all is put down by Christ, who remains a Priest for ever, not after the order of <hi>Aaron,</hi> but after the order of <hi>Melchisedec.</hi>
+            </p>
+            <p>And they were blessed that brought their Tythes to the place which God had chused, and did eat them there with <hi>Levi,</hi> and the Sons, and Daughters, Man-servants, Maid-servants, Strangers, Fatherless, and Widow, as in <hi>Deut.</hi> 14.</p>
+            <p>And they were curst that did not, for they that did not, robbed God and the whole Nation, as in <hi>Mat.</hi> 3. as its said before.</p>
+            <p>And the Apostle saith, cursed is every one that con<g ref="char:EOLhyphen"/>tinueth not in all things which are written in the Book of the Law to do them; so you that takes Tythes ac<g ref="char:EOLhyphen"/>cording to the Law and Command in Scripture, and doth not carry them to <hi>Jerusalem;</hi> and if it had been too far for you to carry it thither, to turn it into money; the place which the Lord God has chosen, which was the place of Offering, where the High-Priest must have his Heave-offering out of them, and the Widows, Stran<g ref="char:EOLhyphen"/>gers, Fatherless, Sons, and Daughters, Men-servants and Maid-servants, and them that gave them, all might eat and praise the Lord together. Now if you have not con<g ref="char:EOLhyphen"/>tinued in all these things written in the Book of the Law, and done them according to the Law; if you have not, cursed is every one that continues not in all things which is written in the Book of the Law to do them. So then, they that be of Faith are blessed with faithful <hi>Abraham,</hi> not as <hi>Levi</hi> that payed Tythes in <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> which after had a Law, for the Apostle cuts off the outward circumcision in <hi>Abraham,</hi> and so the Law of Tythes to <hi>Levi</hi> in <hi>Abraham,</hi> For the promise that <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> should be heir of the world, was not to <hi>Abraham</hi>
+               <pb n="17" facs="tcp:105850:10"/>and his seed through the Law, but through the righ<g ref="char:EOLhyphen"/>teousness of Faith, and Faith was reckoned to <hi>Abraham</hi> for righteousness, when he was in uncircumcision, and not in circumcision. Here the Apostle cuts off, not onely the Levitical Priesthood and his Law, but the cir<g ref="char:EOLhyphen"/>cumcision and his Law, <hi>Rom.</hi> 4.</p>
+            <p>And the Apostle saith, for as many are of the works of the Law are under the curse,
+<note place="margin">
+                  <hi>Gal.</hi> 3.16.</note> but Christ has redeemed us from under the curse of the Law, being made a curse for us; that the blessings of <hi>Abraham</hi> might come upon the <hi>Gentiles</hi> through Jesus Christ, that we might receive the promise of the Spirit through Faith.</p>
+            <p>All these outward things, Tythes, Offerings, and other shadows in the first Covenant, held up by carnal Ordi<g ref="char:EOLhyphen"/>nances, imposed on the <hi>Jews</hi> until the time of Refor<g ref="char:EOLhyphen"/>mation by Christ; so their Law is called a School-master, and it served till the Seed came; and a Child differs nothing from a Servant, but is under Tutors and Gover<g ref="char:EOLhyphen"/>nours, until the time appointed of the Father, mark, then they were not always to be there in that state; even so we, when we were Children, were in bondage under the Elements of the world, now these outward things, the Apostle calls them, <hi>Gal.</hi> 4. the worlds Ele<g ref="char:EOLhyphen"/>ments; but when the fulness of their time was come, God sent forth his Son made of a Woman, made under the Law, to redeem them that were under the Law, that we might receive the Adoption of Sons; and because ye are Sons (marke) God hath sent forth the Spirit of his Son into your hearts, crying <hi>Abba</hi> Father, where<g ref="char:EOLhyphen"/>fore thou art no more a Servant but a Son, and if a Son, then an Heir of God through Christ, so all that wit<g ref="char:EOLhyphen"/>nesses this, witness the time of his Fathers appointing, and the fulness of his time is come, and the time of re<g ref="char:EOLhyphen"/>formation; and they are redeemed out of bondage from under the worlds Elements, and they are redeemed from under the Law, Priest, Tythes and Offerings, by him that is made under the Law, and so from under the curse, by him that became a curse for us, and can say, Christ is
+<pb n="18" facs="tcp:105850:11"/>the end of the Law for righteousness sake, to every one that believes.</p>
+            <p>So all the Faithful walks in the steps of that Faith of our Father <hi>Abraham,</hi> which he had before he was cir<g ref="char:EOLhyphen"/>cumcised; for the promise that he should be Heir of the world, was not to <hi>Abraham,</hi> or to his seed through the Law, but through the righteousness of Faith; and so here the Apostle cuts off the Law of Circumcision, and also the Law by which the Priest <hi>Levi</hi> was made, and re<g ref="char:EOLhyphen"/>ceived his Tythes and Offerings, and so the Justification is in the Faith of Christ, and not by the works of the Law that held up Circumcision, nor the Law by which the Levitical Priesthood was made, and all his Services, Tythes, and Maintenances for the Priest and his Services and Maintenance, Tythes and Law, is put down and changed by Christ, who remains a Priest for ever; who had a better Sacrifice then all those in the first Covenant; but Christ is entred by his own blood into the holy place, that is not made with hands, as the <hi>Levites</hi> chief Priest did, which were but figures of the true, but Christ the substance is entred into Heaven it self, having obtained eternal redemption for us, and now to appear in the presence of God for us, wherefore he is able to save them to the utmost, that comes unto God by him, seeing he ever lives to make intercession for them; for such an High Priest became us Believers and true Christians, who is holy, harmless, undefiled, separate from sinners, and is made higher then the Hea<g ref="char:EOLhyphen"/>vens; so we need not daily those High-Priests that was made by the Law, who offered up Sacrifices for their own sins, and then for the people, who had Tythes for his Wages and Maintenance, for this Christ did once when he offered up himself once for all, and ended all out<g ref="char:EOLhyphen"/>ward Offering, for the Law made High-Priests which have Infirmities, but the word of an Oath which was since the Law, maketh the Son of God, who is conse<g ref="char:EOLhyphen"/>crated and perfected for evermore; Now of the things which were spoken, this is the sum, <hi>Heb.</hi> 8. We have such an High-Priest (to wit Christ) who has ended
+<pb n="19" facs="tcp:105850:11"/>
+               <hi>Aarons</hi> Priesthood, and his Tythes, Law, and Offerings) who is set on the right hand of the Throne of the Ma<g ref="char:EOLhyphen"/>jesty in the Heavens. And is a Minister of the Sanctua<g ref="char:EOLhyphen"/>ry, and of the true Tabernacle which the Lord hath pitched, and not Man And so hath obtained a more ex<g ref="char:EOLhyphen"/>cellent Ministry, then that of <hi>Moses</hi> and <hi>Levi,</hi> by how much more also he is the Mediator of a better Covenant then the first, which is establisht upon better promises, glory to God for ever.</p>
+            <p>And whereas you do alledge what Christ said to the <hi>Pharisees</hi> in <hi>Luke</hi> 11.42. which saith, wo be unto you <hi>Pharisees,</hi> for ye Tythe Mint and Rue, and all manner of Herbs; and pass over Judgement and the love of God, these ought you to have done, and not to leave the other undone, to which I say, these things was before Christ was offered up, and the Tenths of Tenths was a Heave-Offering, and Christ bid them go offer to the Priest for their cleansing, for he did not come to break the Law, but to fulfill every jot and tittle of it; but when Christ was offered up once for all the Offerings, then the High-Priests Offerings and <hi>Levi's</hi> Tythe of Mint and Rue, <hi>&amp;c.</hi> was ended. And they that preacht the Gospel, said the Levitical Priesthood, was changed, and the Law was changed, by which he was made, and the command was disannulled that gave him his Tythes for his Services and Offerings, and Christ was preacht, and set up the unchangeable Priest, and so Christ the Priest by Offering up of himself, has ended the first Priesthood and his Offerings; then Christ said to his Apostles, Dis<g ref="char:EOLhyphen"/>ciples, Ministers and Messengers, freely ye have received freely give, so people may keep their Tythe of Mint and their Rue and other Herbs and things, to themselves; for Christ has taken away the Law that gave them: for the Apostles was to go without Bagg or Scrip; therefore they were not to take Peoples Mints and Herbs, as the Levitical Priesthood did by the Law; but Christ has changed this Law and him, and put down his Office; Therefore <hi>Levi</hi> has no power to take them of people, and therefore people may keep them to themselves; for
+<pb n="20" facs="tcp:105850:12"/>where there is no Law there is no Transgression for not paying of them; but Christ remains an unchangeable Priest for ever who by the Offeing up himself, has ended all their Offerings, and all people must come to God by him, who is consecrated a new and living way, <hi>Heb.</hi> 10.</p>
+            <p>So Christ has ended old <hi>Levies</hi> Priesthood, with his old Wages, his old Tythes and Offerings, and his old Altars, and his old Temple, and his old carnal Ordinan<g ref="char:EOLhyphen"/>ces, and his old Offerings, and his old Washings, and his old Tabernacle made with hands, and his old Testa<g ref="char:EOLhyphen"/>ment which is sprinkled with the blood of Bulls and Goats, and his old Covenant, and the old worldly san<g ref="char:EOLhyphen"/>ctuary, and the old shadows and sacrifices: Christ I say has ended all these things by the one offering and sacrifi<g ref="char:EOLhyphen"/>cing of himself once for all, and who is set dovvn at the right hand of God above them all, and over them all; and none comes to God but through him, and by him, and Christ hath appeared to put avvay sin by the sacri<g ref="char:EOLhyphen"/>ficing of himself; and after Christ had offered one sacri<g ref="char:EOLhyphen"/>fice for sins for ever, sat dovvn at the right hand of God; so he hath ended the Levitical Priesthood that offered up for their ovvn sins, and then for the sins of the people; so Christ I say has ended their vvork and their service; so likevvise he has ended the Tythes vvhich vvas for their Wages. And every ones Faith is to stand in Christ the Author of it, and to live by it, and vvalk by it, if they be justified, and come into the Heirship vvith faithful <hi>Abraham.</hi>
+            </p>
+            <p>And after Christ vvas risen, he said unto his Disciples, <hi>Luke</hi> 24. while I vvas yet vvith you, I told you, that all things must be fulfilled vvhich vvere vvritten in the Lavv of <hi>Moses,</hi> and in the Prophets, and in the Psalms concer<g ref="char:EOLhyphen"/>ning me, so the Lavv and the Prophets are fulfilled in Christ, and he is the end of them; vvho is the first and the last, the beginning and the ending, the <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>The</hi> 1st. <hi>day of the 7th. Month.</hi> 1676.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:105850:12"/>
+            <head>A POSTSCRIPT.</head>
+            <p>
+               <hi>UNto the Tribes of</hi> Levi, Moses <hi>gave no Inheritance, the Lord God of</hi> Israel <hi>was their Inheritance, as he said unto them in</hi> Numb 18.20, 21.</p>
+            <p>
+               <hi>And behold I have given the Children of</hi> Levi, <hi>all the Tenths in</hi> Israel, <hi>for an Inheritance for their service, even the service of the Tabernacle of the Congregation: So the Eleven Tribes had the Land by Lot; as in</hi> Josh. ch. 13, 14.</p>
+            <p>
+               <hi>So the Law served and the Priests did their service about the Tabernacle, till Christ came and was offered up.</hi>
+            </p>
+            <p>
+               <hi>For when the fullness of time was come, God sent forth his Son, made of a Woman, and made under the Law, to re<g ref="char:EOLhyphen"/>deem them that were under the Law, that they might receive the adoption of Sons, which many witnesses at this day.</hi>
+            </p>
+            <p>
+               <hi>And so Christ has ended the Levitical Priesthood, and his service; and has taken away the first Priesthood, that he may establish the second, which is made higher then the Heavens, which hath not entred into the worldly Sanctuary or Tabernacle, but into Heaven by his own blood.</hi>
+            </p>
+            <p>
+               <hi>And has ended the first Covenant, and has made the first Old, and it was ready to vanish away, in the days of the Apostles,</hi> Heb. 8.</p>
+            <p>
+               <hi>And so Christ Jesus the Heavenly Priest, hath discharged</hi> Levi <hi>of his services at the Altar, Tabernacle, and Temple, and of his outward Arke, and of all his Offerings and Sa<g ref="char:EOLhyphen"/>crifices, and his Heave-offerings of his Tythes, which he was to shake too and fro, East, West, North and South, which was a Type of Christs Offering up himself, once for all their Offerings.</hi>
+            </p>
+            <p>
+               <hi>And so Christ having discharged him of his Offices, and taken away his Temple, Altar, Tabernacle, Sanctuary, blood of Bulls and Goats, and Tythes, the Priests wages and portion for his service, and his Offerings which he was to feed upon, which had no Lot nor Inheritance in the Land.</hi>
+            </p>
+            <p>
+               <hi>Now he may take himself a Plantation, or buy himself Land, for Christ has taken away his Offerings and his Law, and the Command that gave him his Tythes, for he must ex<g ref="char:EOLhyphen"/>pect no more Tythes.</hi>
+            </p>
+            <p>
+               <hi>So now God has no work for him at outward Taber<g ref="char:EOLhyphen"/>bernacles, nor to offer outward Sacrifices; For he has no
+<pb facs="tcp:105850:13"/>Law nor Power from God, to take wages, to wit Tythes, for any such services.</hi>
+            </p>
+            <p>
+               <hi>For Christ has offered up himself once for all their Offe<g ref="char:EOLhyphen"/>rings, and is a Priest, not after the order of</hi> Aaron, <hi>but after the order of</hi> Melchisedec.</p>
+            <p>
+               <hi>So</hi> Levi <hi>was to have no portion but the Tenths of</hi> Israel.</p>
+            <p>
+               <hi>Now Christ has ended this Levitical Priesthood and his Tenths, for his service, which he served in it by the Law, till the seed Christ came, which was the fullness of time, that God sent forth his Son, which was the time of refor<g ref="char:EOLhyphen"/>mation out of those things, and a time to take away the first, to establish the second, the Everlasting Priest, and the Everlasting Covenant.</hi>
+            </p>
+            <p>
+               <hi>And he took away the Circumcision in the flesh, and he stablisht the Circumcision in the Spirit.</hi>
+            </p>
+            <p>
+               <hi>And so if</hi> Levi <hi>should plead for the Tenths of</hi> Israel <hi>now, he is an usurper of Authority, for he has no Law nor Com<g ref="char:EOLhyphen"/>mand from God, for so doing.</hi>
+            </p>
+            <p>
+               <hi>And Christ has dyed for all, and enlightned all men; that all might believe in the light, and become Children of the light.</hi>
+            </p>
+            <p>
+               <hi>And his Gospel of Salvation is preached unto all men, and to every Creature under Heaven; and the grace of God has appeared to all men, which is the true Christians teacher.</hi>
+            </p>
+            <p>
+               <hi>And so all the Believers in the light, are the Children of the light, and are grafted into Christ that dyed for them, and eats the flesh and drinks the blood of the heavenly man, and so feeds upon Christ Jesus their sacrifice.</hi>
+            </p>
+            <p>
+               <hi>And so all circumcised men and women feeds upon the sacrifice; and are the royal Priesthood, offering up Spiri<g ref="char:EOLhyphen"/>tual sacrifices.</hi>
+            </p>
+            <p>
+               <hi>And God has made us, to wit, the true Church, Kings and Priests; and has redeemed us from the Earth, so to reign over the Devil and the Earth, and so to offer up spi<g ref="char:EOLhyphen"/>ritual Sacrifices.</hi>
+            </p>
+            <p>
+               <hi>And these Priests that God has made, offers up no earthly Sacrifices, therefore they will not have no Barthly Tythes, for they see the Levitical Priesthood taken away, that took them, which was the first.</hi>
+            </p>
+            <p>
+               <hi>And they do see Christ the second stablisht, a Priest for ever, made higher then the Heavens, who is over all from everlasting to everlasting, the first and last.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <pb facs="tcp:105850:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
